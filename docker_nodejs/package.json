@@ -1,0 +1,12 @@
+{
+  "name": "docker-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js HTTP server that responds with 'Hello, World!'",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+
+
